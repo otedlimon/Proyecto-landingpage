@@ -1,7 +1,7 @@
 # Proyecto-landingpage
 Proyecto realizado para Ucamp como ejercicio
 se escogio la tematica de una empresa de sublimacion
-se hizo el diseño del logo y se adquirieron las imaganes de internet
+se hizo el diseño del logo y se adquirieron las imagenes de internet
 la seccion de navegacion es funcional y nos redirige a las areas existentes
 se diseño una jumbotron con un boton de contacto
 se diseño una galeria sencilla
